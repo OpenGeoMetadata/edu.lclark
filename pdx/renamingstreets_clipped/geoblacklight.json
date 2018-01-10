@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": ["J.W. Stengele and Jos. Schiffers"],
+"dc_description_s": "This map shows the process of renaming streets, adopted by Portland's City Council in 1892. Georeferenced using WGS 84- Pseudo Mercator. ",
+"dc_format_s": "GeoTIFF",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/48",
+"dc_publisher_s": "",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["20th century"],
+"dc_title_s": "Map of the City of Portland, Oregon 1892: Showing manner of Renaming Streets as adopted by the City Council",
+"dc_type_s": "Image",
+"dct_isPartOf_sm": "PDX",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/48\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B87VOF6YY0aeZ0JHWjU1dEZCRHc\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5744337: Oregon (country, state, region,...), Oregon, United States","Portland"],
+"dct_temporal_sm": ["1892"],
+"layer_geom_type_s": "Raster",
+"layer_id_s": "PDX:renamingstreets_clipped",
+"layer_modified_dt": "2018-1-10T0:16:0Z",
+"layer_slug_s": "renamingstreets_clipped",
+"solr_geom": "ENVELOPE(-122.76728896504, -122.61795150873, 45.794219335792, 45.654093766069)"
+}

@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": [],
+"dc_description_s": "geometric 1990 Portland Census tracts",
+"dc_format_s": "Shapefile",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/32",
+"dc_publisher_s": "",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["Census"],
+"dc_title_s": "Portland Census Tracts 1990",
+"dc_type_s": "Dataset",
+"dct_isPartOf_sm": "RLIS",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/32\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B87VOF6YY0aeUDJ1MFZYZ1Z2V1U\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5744337: Oregon (country, state, region,...), Oregon, United States","5746545: Portland (city, village,...), Oregon, United States"],
+"dct_temporal_sm": ["1990"],
+"layer_geom_type_s": "Polygon",
+"layer_id_s": "RLIS:tract1990",
+"layer_modified_dt": "2018-1-10T0:16:37Z",
+"layer_slug_s": "tract1990",
+"solr_geom": "ENVELOPE(-123.53651532783, -121.62791527043, 46.416314250225, 44.507714192823)"
+}

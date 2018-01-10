@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": ["Lewis & Dryden"],
+"dc_description_s": "A historical raster map of Portland Streets originally mapped in 1892 by Lewis & Dryden.",
+"dc_format_s": "GeoTIFF",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/24",
+"dc_publisher_s": "Lewis & Clark College",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["Portland (Or.)--Maps"],
+"dc_title_s": "Portland Streets 1892",
+"dc_type_s": "Image",
+"dct_isPartOf_sm": "PDX",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/24\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B1g8AvMEbzEbOVQ0Vko0Wm5CXzQ\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5744337: Oregon (country, state, region,...), Oregon, United States","5746545: Portland (city, village,...), Oregon, United States","5760913: Willamette River (stream, lake, ...), Oregon, United States"],
+"dct_temporal_sm": ["1892"],
+"layer_geom_type_s": "Raster",
+"layer_id_s": "PDX:portland_1892_gtiff",
+"layer_modified_dt": "2018-1-10T0:16:37Z",
+"layer_slug_s": "portland_1892_gtiff",
+"solr_geom": "ENVELOPE(-122.71237172057, -122.63130661467, 45.567494103225, 45.485187959207)"
+}

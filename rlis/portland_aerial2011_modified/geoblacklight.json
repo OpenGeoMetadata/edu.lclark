@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": ["Oregon Metro"],
+"dc_description_s": "Aerial map or Portland metro area derived from ortho-rectified digital images, covering 602 square miles at 6 inch resolution. Map from Oregon Metro. Original CRS: NAD_1983_HARN_StatePlane_Oregon_North_FIPS_3601\r\nUsed CRS: NAD_1983_StatePlane_Oregon_North_FIPS_3601_Feet to project map in the correct location. ",
+"dc_format_s": "GeoTIFF",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/27",
+"dc_publisher_s": "Lewis & Clark College (Portland, Or.)",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["Portland (Or.)--Maps","Aerial photographs"],
+"dc_title_s": "Portland Aerial photo 2011",
+"dc_type_s": "Image",
+"dct_isPartOf_sm": "RLIS",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/27\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B87VOF6YY0aeb2tmbEJIbkJWNHc\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5744337: Oregon (country, state, region,...), Oregon, United States","5746545: Portland (city, village,...), Oregon, United States"],
+"dct_temporal_sm": ["2011"],
+"layer_geom_type_s": "Raster",
+"layer_id_s": "RLIS:portland_aerial2011_modified",
+"layer_modified_dt": "2018-1-10T0:16:37Z",
+"layer_slug_s": "portland_aerial2011_modified",
+"solr_geom": "ENVELOPE(-123.22983431793, -122.19854487419, 46.280360725496, 45.249071281753)"
+}

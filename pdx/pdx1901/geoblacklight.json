@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": ["C.H. Crocker Co."],
+"dc_description_s": "This map shows the historic paper map published by C.H. Crocker Co. of Portland and Beaverton, Oregon. Georeferenced using Oregon North State Plan NAD 1983. Found in the Harvard Maps collection.",
+"dc_format_s": "GeoTIFF",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/42",
+"dc_publisher_s": "Harvard Geospatial Library",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["History","Parks","Boundaries"],
+"dc_title_s": "Portland 1901",
+"dc_type_s": "Image",
+"dct_isPartOf_sm": "PDX",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/42\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B87VOF6YY0aeLURrbTNhNVAtTlU\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5744337: Oregon (country, state, region,...), Oregon, United States","5746545: Portland (city, village,...), Oregon, United States"],
+"dct_temporal_sm": ["1901"],
+"layer_geom_type_s": "Raster",
+"layer_id_s": "PDX:pdx1901",
+"layer_modified_dt": "2018-1-10T0:16:32Z",
+"layer_slug_s": "pdx1901",
+"solr_geom": "ENVELOPE(-122.77951334223, -122.55020996238, 45.646886553803, 45.41758317395)"
+}

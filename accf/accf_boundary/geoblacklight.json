@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": ["James D. Proctor"],
+"dc_description_s": "Boundary of Alder Creek Community Forest site, located in southern Douglas County, OR.",
+"dc_format_s": "Shapefile",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/4",
+"dc_publisher_s": "",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["Education","Forests and forestry","Boundaries"],
+"dc_title_s": "Alder Creek Community Forest Boundary",
+"dc_type_s": "Dataset",
+"dct_isPartOf_sm": "ACCF",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/4\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B1g8AvMEbzEbc3ZDTUtiUVJ2VWM\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5723759: Douglas County (country, state, region,...), Oregon, United States"],
+"dct_temporal_sm": ["2016"],
+"layer_geom_type_s": "Polygon",
+"layer_id_s": "ACCF:accf_boundary",
+"layer_modified_dt": "2018-1-10T0:16:46Z",
+"layer_slug_s": "accf_boundary",
+"solr_geom": "ENVELOPE(-123.30591542864, -123.29606527231, 42.926622632608, 42.920787454102)"
+}

@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": [],
+"dc_description_s": "This shapefile contains the 1970 Portland geometric census tracts. Using CRS: NAD83 Oregon North ",
+"dc_format_s": "Shapefile",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/30",
+"dc_publisher_s": "",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["Census"],
+"dc_title_s": "Portland Census Tracts 1970",
+"dc_type_s": "Dataset",
+"dct_isPartOf_sm": "RLIS",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/30\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B87VOF6YY0aeTXdxajFKVjVhR3c\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5744337: Oregon (country, state, region,...), Oregon, United States","5746545: Portland (city, village,...), Oregon, United States"],
+"dct_temporal_sm": ["1970"],
+"layer_geom_type_s": "Polygon",
+"layer_id_s": "RLIS:pdx_censustracts1970",
+"layer_modified_dt": "2018-1-10T0:16:37Z",
+"layer_slug_s": "pdx_censustracts1970",
+"solr_geom": "ENVELOPE(-123.5556013284, -121.60882926985, 46.435400250799, 44.488628192249)"
+}

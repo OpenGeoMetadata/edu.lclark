@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": ["Surveyor General's Office"],
+"dc_description_s": "This map shows the Portland area in 1852 as the \"township north of range east of the Willamette Meridian Territory\". Created by the Surveyor General's Office, Oregon City in 1852. ",
+"dc_format_s": "GeoTIFF",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/50",
+"dc_publisher_s": "",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["History"],
+"dc_title_s": "General Land Map of Portland North 1852",
+"dc_type_s": "Image",
+"dct_isPartOf_sm": "PDX",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/50\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B87VOF6YY0aeSW5YemlaMGViTWs\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5744337: Oregon (country, state, region,...), Oregon, United States","5746545: Portland (city, village,...), Oregon, United States"],
+"dct_temporal_sm": ["1852"],
+"layer_geom_type_s": "Raster",
+"layer_id_s": "PDX:general_land_map_north_1852",
+"layer_modified_dt": "2018-1-10T0:16:0Z",
+"layer_slug_s": "general_land_map_north_1852",
+"solr_geom": "ENVELOPE(-122.7732101644, -122.57668841195, 45.838825077424, 45.648111633296)"
+}

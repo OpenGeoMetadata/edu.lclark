@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": ["Metro Data Resource Center"],
+"dc_description_s": "Interpretation of the USPS mail carrier ZIP Codes. Data derived from taxlot and master address information published with RLIS-Lite. This data in no way reflects exact USPS mail carrier routes and should be used accordingly.",
+"dc_format_s": "Shapefile",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/3",
+"dc_publisher_s": "Metro Data Resource Center (Or.)",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["Zip codes"],
+"dc_title_s": "Portland ZIP Codes",
+"dc_type_s": "Dataset",
+"dct_isPartOf_sm": "RLIS",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/3\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B-249YJc4OukdVhGdGdDUmdVR2c\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5746545: Portland (city, village,...), Oregon, United States"],
+"dct_temporal_sm": ["2016"],
+"layer_geom_type_s": "Polygon",
+"layer_id_s": "RLIS:zipcode",
+"layer_modified_dt": "2018-1-10T0:16:46Z",
+"layer_slug_s": "zipcode",
+"solr_geom": "ENVELOPE(-123.51780553439, -121.64691311066, 46.067283914518, 44.854012785537)"
+}

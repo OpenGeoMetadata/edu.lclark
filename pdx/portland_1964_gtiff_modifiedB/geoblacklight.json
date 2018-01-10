@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": ["Geological Survey"],
+"dc_description_s": "This topographical map is a compilation of four Geological Survey Portland maps published in 1964.  Georeferenced to fit Oregon North State Plane (feet) NAD 1927 coordinate system (Fipszone 3601).",
+"dc_format_s": "GeoTIFF",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/26",
+"dc_publisher_s": "Harvard Map Collection",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["Portland (Or.)--Maps","History"],
+"dc_title_s": "Portland Topographical Map of 1964",
+"dc_type_s": "Image",
+"dct_isPartOf_sm": "PDX",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/26\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B87VOF6YY0aeaEIweFNZWmJTYVk\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5744337: Oregon (country, state, region,...), Oregon, United States","5746545: Portland (city, village,...), Oregon, United States","5760913: Willamette River (stream, lake, ...), Oregon, United States","5926219: Columbia River (stream, lake, ...), British Columbia, Canada"],
+"dct_temporal_sm": ["1964"],
+"layer_geom_type_s": "Raster",
+"layer_id_s": "PDX:portland_1964_gtiff_modifiedB",
+"layer_modified_dt": "2018-1-10T0:16:37Z",
+"layer_slug_s": "portland_1964_gtiff_modifiedB",
+"solr_geom": "ENVELOPE(-122.85444072941, -122.29412600093, 46.097009594266, 45.400034783955)"
+}

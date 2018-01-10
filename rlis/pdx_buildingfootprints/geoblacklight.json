@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": ["Oregon Metro"],
+"dc_description_s": "A map of the city's building footprints, incluidng hieights obtained through LIDAR and existing footprint data. \r\nOriginal CRS: NAD_1983_HARN_StatePlane_Oregon_North_FIPS_3601, but used NAD_1983_StatePlane_Oregon_North_FIPS_3601_Feet to ensure correct geolocation.  ",
+"dc_format_s": "Shapefile",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/28",
+"dc_publisher_s": "Lewis & Clark College (Portland, Or.)",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["Portland (Or.)--Maps","Buildings (Group theory)"],
+"dc_title_s": "Portland building footprints",
+"dc_type_s": "Dataset",
+"dct_isPartOf_sm": "RLIS",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/28\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B87VOF6YY0aebC0teVh0OEY1OGc\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5744337: Oregon (country, state, region,...), Oregon, United States","5746545: Portland (city, village,...), Oregon, United States","5742123: Willamette River (stream, lake, ...), Oregon, United States","5720196: Columbia River (stream, lake, ...), Oregon, United States"],
+"dct_temporal_sm": ["2010"],
+"layer_geom_type_s": "Polygon",
+"layer_id_s": "RLIS:pdx_buildingfootprints",
+"layer_modified_dt": "2018-1-10T0:16:37Z",
+"layer_slug_s": "pdx_buildingfootprints",
+"solr_geom": "ENVELOPE(-124.32182751057, -116.3042196339, 46.329550184882, 43.877634531812)"
+}

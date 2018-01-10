@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": ["Edward H. Bennett"],
+"dc_description_s": "This map shows a street plan proposal by Edward H. Bennett,  with diagonal streets, east-side business areas, and industry along the north riverfront. From Edward Bennett's Greater Portland Plan 1912, cited in \"Greater Portland: Experiments with Professional Planning, 1905-1925\" by Carl Abbott. ",
+"dc_format_s": "GeoTIFF",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/45",
+"dc_publisher_s": "",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["Streets"],
+"dc_title_s": "Portland Proposed Street Plan 1912",
+"dc_type_s": "Image",
+"dct_isPartOf_sm": "PDX",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/45\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B87VOF6YY0aeR2prYV82TG5wWjQ\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5744337: Oregon (country, state, region,...), Oregon, United States","5746545: Portland (city, village,...), Oregon, United States"],
+"dct_temporal_sm": ["1912"],
+"layer_geom_type_s": "Raster",
+"layer_id_s": "PDX:Portland_street_plan_1912_modified",
+"layer_modified_dt": "2018-1-10T0:16:0Z",
+"layer_slug_s": "Portland_street_plan_1912_modified",
+"solr_geom": "ENVELOPE(-122.74317860146, -122.51847338239, 45.770235557117, 45.558943661455)"
+}

@@ -1,0 +1,21 @@
+{
+"dc_creator_sm": [],
+"dc_description_s": "This map shows the condition of development in Portland 1912 and the plan for future development of streets, parks, and business district. This is from Edward H. Bennett's Greater Portland Plan. ",
+"dc_format_s": "GeoTIFF",
+"dc_identifier_s": "http:\/\/34.208.35.221\/submit\/items\/show\/38",
+"dc_publisher_s": "",
+"dc_rights_s": "Public",
+"dc_subject_sm": ["Development"],
+"dc_title_s": "General Portland Development Plan 1912",
+"dc_type_s": "Image",
+"dct_isPartOf_sm": "PDX",
+"dct_provenance_s": "Lewis & Clark",
+"dct_references_s": "{\"http://schema.org/url\":\"http://34.208.35.221/submit/items/show/38\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B87VOF6YY0aeQ2tyMFRPLUFFUEU\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_spatial_sm": ["5744337: Oregon (country, state, region,...), Oregon, United States","5746545: Portland (city, village,...), Oregon, United States"],
+"dct_temporal_sm": ["1912"],
+"layer_geom_type_s": "Raster",
+"layer_id_s": "PDX:general_development_plan_modified",
+"layer_modified_dt": "2018-1-10T0:16:32Z",
+"layer_slug_s": "general_development_plan_modified",
+"solr_geom": "ENVELOPE(-122.79109411087, -122.49738415946, 45.86320477039, 45.552224535984)"
+}
